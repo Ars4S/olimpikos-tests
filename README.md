@@ -58,5 +58,3 @@ git branch -M main
 git remote add origin https://github.com/ВАШ_ЛОГИН/olimpoks-tests.git
 git push -u origin main
 ```
-
-Ссылку на репозиторий отправьте работодателю вместе с кратким описанием запуска (`dotnet test`).
